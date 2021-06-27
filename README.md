@@ -12,4 +12,6 @@ The admin can delete the questions or mark as read and every information is save
  - CSS3
  - Javascript
  - Node.js
- - SQL.Lite
+ - EJS
+ - Express
+ - SQLite
